@@ -909,7 +909,7 @@ display: inline-block;
     height: auto;
     margin-top: 0;
     line-height: inherit;
-    width: 25%;
+    width: 15%;
 }
     .main-menu .has-sub > ul{
         position: relative;
@@ -1969,7 +1969,7 @@ margin-bottom: 50px;
     width: 94%;
 }
     .logo img{
-        width: 185px;
+        width: 80px;
     }
     .counter-area .single-counter {
   border-right: none;
@@ -2271,7 +2271,7 @@ display: inline-block;
     width:100% !important;
 }
     .newslater-area img{
-        margin-bottom: 30px;'
+        margin-bottom: 30px;
     }
     .newslater-title .icon {
   margin-right: 0px;
