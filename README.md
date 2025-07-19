@@ -1,2 +1,2 @@
-# uob-enhanced
-University of Balochistan  Website Re-Created
+# UOB-Enhanced
+University of Balochistan  Website Re-Enhanced
